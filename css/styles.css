@@ -1,0 +1,48 @@
+div {
+  background-color: #dbe2ef;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: fantasy;
+  font-family: 'Architects Daughter', cursive;;
+}
+.h1 {
+  margin-top: 0;
+  width: 200px;
+  margin: auto;
+  padding-top: 200px;
+  font-family: 'Shadows Into Light', cursive;
+}
+.h2, h3{
+  font-family: 'Praise', cursive;
+}
+.middle {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+.top {
+  position: absolute;
+}
+.bottom {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+.cloud_top {
+  width: 350px;
+  position: absolute;
+  top: 5px;
+  right: 50px;
+}
+.cloud_bottom {
+  width: 350px;
+  position: absolute;
+  top: 10px;
+  left: 100px;
+}
+.nature {
+  width: 100%;
+}
